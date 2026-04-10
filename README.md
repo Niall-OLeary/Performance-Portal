@@ -2,7 +2,7 @@
 
 ## Description
 
-The Performance Portal is a data-driven dashboard built in Power BI, designed to transform operational performance meetings into insight-led decision-making forums.
+The Performance Portal is a data-driven dashboard, built in Power BI, designed to transform operational performance meetings into insight-led decision-making forums.
 
 Originally developed from monthly performance board meetings, the project evolved into a centralised platform that surfaces actionable insights, improves visibility of provider performance, and enables more targeted operational interventions.
 
@@ -17,8 +17,8 @@ Performance board meetings were primarily operational discussions, with limited 
 
 	• Meetings lacked a structured, insight-led narrative  
 	• Existing dashboards did not surface actionable opportunities  
+	• Reactive rather than proactive operational decision-making  	
 	• Limited visibility of provider-level performance across the business  
-	• Reactive rather than proactive operational decision-making  
 	• Diagnostic data was underutilised and inconsistently applied  
 
 ## Solution
@@ -45,7 +45,7 @@ To address these issues, the project introduced both a cultural and technical tr
 	  - Surface previously hidden insights  
 	  - Track key performance indicators across providers  
 	  - Enable drill-down into operational and participant-level data  
-• Data models were optimised using SQL transformations to ensure performance and scalability  
+• Data models were optimised using SQL transformations and a Power BI star schema to ensure performance and scalability  
 • Designed to support both strategic oversight and day-to-day decision-making  
 
 **Automated MI Workbook Integration**  
