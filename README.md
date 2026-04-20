@@ -1,4 +1,4 @@
-# Performance-Portal
+# Performance Portal
 
 ## Description
 
